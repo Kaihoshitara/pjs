@@ -1,3 +1,3 @@
 Hola, Git
-¿que tal?
+¿Que tal?
 ¡Todo bien!
